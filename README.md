@@ -17,9 +17,9 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ![](./screenshots/SmallerThanSelf.png)
 
-### 2 - Difícil - []()
+### 2 - Difícil - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-![]()
+![](./screenshots/media.png)
 
 ### 3 - Difícil - []() 
 
