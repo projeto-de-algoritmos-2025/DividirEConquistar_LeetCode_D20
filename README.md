@@ -1,6 +1,6 @@
-# Greedy - LeetCode
+# Dividir e Conquistar - LeetCode
 
-**Conteúdo do Trabalho**: Algoritmos Ambiciosos<br>
+**Conteúdo do Trabalho**: Algoritmos de Dividir e Conquistar<br>
 
 ## Alunos
 |Matrícula | Aluno |
