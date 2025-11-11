@@ -21,7 +21,7 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ### 2 - Difícil - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-![](./screenshots/MedianOfTwoSortedArrays.png>)
+![](./screenshots/MedianOfTwoSortedArrays.png)
 
 [Solução](MedianOfTwoSortedArrays.py)
 
@@ -39,7 +39,7 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ## Vídeo de apresentação do Trabalho 3
 
-[Vídeo da apresentação no yt]()
+[Vídeo da apresentação no yt](https://youtu.be/j9S6l2LKbHM)
 
 ## Linguagens
 
