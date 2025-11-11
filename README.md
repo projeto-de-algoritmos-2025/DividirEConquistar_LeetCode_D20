@@ -17,21 +17,25 @@ Nesse projeto apresentamos soluções de exercícios do Leetcode usando Python.
 
 ![](./screenshots/SmallerThanSelf.png)
 
+[Solução](CountOfSmallerNumbersAfterSelf.py)
+
 ### 2 - Difícil - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/)
 
-![](./screenshots/media.png)
+![](./screenshots/MedianOfTwoSortedArrays.png>)
 
-### 3 - Difícil - []() 
+[Solução](MedianOfTwoSortedArrays.py)
 
-![]()
+### 3 - Difícil - [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/) 
 
-[Solução]()
+![](./screenshots/MergeKSortedLists.png)
 
-### 4 - Difícil - []() 
+[Solução](./MergeKSortedLists.py)
 
-![]()
+### 4 - Difícil - [Count Good Triplets in an Array](https://leetcode.com/problems/count-good-triplets-in-an-array/description/) 
 
-[Solução]()
+![](./screenshots/CountGoodTripletsInAnArray.png)
+
+[Solução](./CountGoodTripletsInAnArray.py)
 
 ## Vídeo de apresentação do Trabalho 3
 
